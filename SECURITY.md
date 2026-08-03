@@ -13,17 +13,6 @@ includes:
 - Personal data left on disk or accidentally committed to source control
 - Over-broad consent requests
 
-## Reporting a vulnerability
-
-Please open a
-[private security advisory](https://github.com/OmarAL-Qtaishat/entra-sms-voice-mfa-report/security/advisories/new)
-rather than a public issue.
-
-Include the script version (see CHANGELOG.md), what you observed, and reproduction steps.
-Please do not include real customer data, tenant IDs, or user principal names in the report.
-
-Expect an initial response within 5 working days.
-
 ## Using this safely
 
 **Before running against a customer tenant**
